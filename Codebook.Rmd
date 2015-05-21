@@ -7,7 +7,7 @@ output: html_document
 
 ###DATA DICTIONARY for Human Activity Recognition Using Smartphones Data Set 
 
-A data.table named tidy.mean is set with the following columns. All units are maintained from the original data set. A file named tidy.mean.txt is written from run_analysis.R.
+*A data.table named tidy.mean is set with the following columns. All units are maintained from the original data set. A file named tidy.mean.txt is written from run_analysis.R.
 
 | column       | description                                              | type    |
 | ------------ | -------------------------------------------------------- | ------- |
@@ -17,7 +17,7 @@ A data.table named tidy.mean is set with the following columns. All units are ma
 
 
 
-A data.table named tidy is set with the following columns. All units are maintained from the original data set. A file named tidy.txt is written from run_analysis.R.
+*A data.table named tidy is set with the following columns. All units are maintained from the original data set. A file named tidy.txt is written from run_analysis.R.
 
 | Column                       | Original Name               |
 | ---------------------------- | --------------------------- |
@@ -92,5 +92,5 @@ A data.table named tidy is set with the following columns. All units are maintai
 
 
 ###Source data
-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-Note: Source of data: Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. A Public Domain Dataset for Human Activity Recognition Using Smartphones. 21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges, Belgium 24-26 April 2013.
+*Original data can be found in the following [link](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+*Credits: Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. A Public Domain Dataset for Human Activity Recognition Using Smartphones. 21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges, Belgium 24-26 April 2013.
