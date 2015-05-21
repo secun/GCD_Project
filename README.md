@@ -1,4 +1,4 @@
-# GCD_Project
+# Getting and Cleanign Data Project Assigment
 Material for assignment on Getting and Cleaning and data
 
 
